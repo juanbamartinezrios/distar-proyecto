@@ -1,0 +1,3 @@
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\Distar\bin\Release\Distar.exe.config
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\Distar\obj\Release\Distar.Properties.Resources.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\Distar\obj\Release\Distar.csproj.GenerateResource.Cache

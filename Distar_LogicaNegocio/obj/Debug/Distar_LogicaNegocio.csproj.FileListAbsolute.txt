@@ -1,0 +1,81 @@
+D:\Facultad\TD - Distar\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.csprojResolveAssemblyReference.cache
+D:\Facultad\TD - Distar\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.dll
+D:\Facultad\TD - Distar\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.pdb
+D:\Facultad\TD - Distar\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.dll
+D:\Facultad\TD - Distar\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.dll
+D:\Facultad\TD - Distar\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.pdb
+D:\Facultad\TD - Distar\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.pdb
+D:\Facultad\TD - Distar\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.dll
+D:\Facultad\TD - Distar\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.pdb
+C:\Users\navegador\Desktop\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\navegador\Desktop\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\navegador\Desktop\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\navegador\Desktop\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\navegador\Desktop\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\navegador\Desktop\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\navegador\Desktop\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.dll
+C:\Users\navegador\Desktop\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.pdb
+C:\Users\jmartinez\Desktop\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\jmartinez\Desktop\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\jmartinez\Desktop\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\jmartinez\Desktop\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\jmartinez\Desktop\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\jmartinez\Desktop\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\jmartinez\Desktop\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\jmartinez\Desktop\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.dll
+C:\Users\jmartinez\Desktop\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.pdb
+C:\Users\JUANBA\Downloads\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\JUANBA\Downloads\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\JUANBA\Downloads\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\JUANBA\Downloads\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\JUANBA\Downloads\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\JUANBA\Downloads\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\JUANBA\Downloads\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\JUANBA\Downloads\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.dll
+C:\Users\JUANBA\Downloads\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.pdb
+C:\Users\Navegador\Downloads\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\Navegador\Downloads\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\Navegador\Downloads\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\Navegador\Downloads\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\Navegador\Downloads\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\Navegador\Downloads\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\Navegador\Downloads\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Navegador\Downloads\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.dll
+C:\Users\Navegador\Downloads\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.pdb
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.dll
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.pdb
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.dll
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.pdb
+C:\Users\jmartinez\Documents\Facultad\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\jmartinez\Documents\Facultad\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\jmartinez\Documents\Facultad\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\jmartinez\Documents\Facultad\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\jmartinez\Documents\Facultad\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\jmartinez\Documents\Facultad\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\jmartinez\Documents\Facultad\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\jmartinez\Documents\Facultad\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.dll
+C:\Users\jmartinez\Documents\Facultad\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.pdb
+C:\Users\jmartinez\Desktop\Distar\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\jmartinez\Desktop\Distar\Distar\Distar_LogicaNegocio\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\jmartinez\Desktop\Distar\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\jmartinez\Desktop\Distar\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\jmartinez\Desktop\Distar\Distar\Distar_LogicaNegocio\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\jmartinez\Desktop\Distar\Distar\Distar_LogicaNegocio\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\jmartinez\Desktop\Distar\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\jmartinez\Desktop\Distar\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.dll
+C:\Users\jmartinez\Desktop\Distar\Distar\Distar_LogicaNegocio\obj\Debug\Distar_LogicaNegocio.pdb

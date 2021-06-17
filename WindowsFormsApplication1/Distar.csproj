@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{047B449D-B34C-46E2-912C-C2FB1859B9B4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Distar</RootNamespace>
+    <AssemblyName>Distar_GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\jmartinez\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Distar</ProductName>
+    <PublisherName>Juan Bautista Martinez Rios</PublisherName>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Distar.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>REPORT_ICON.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>A6B0790ED88DBDDE6D02C4AB0CDC9FB45AE52C4F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Distar_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADMIN\FrmAdmFamilia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\FrmAdmFamilia.Designer.cs">
+      <DependentUpon>FrmAdmFamilia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\FrmAdmUsuario_familias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\FrmAdmUsuario_familias.Designer.cs">
+      <DependentUpon>FrmAdmUsuario_familias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\FrmAdmUsuario_patentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\FrmAdmUsuario_patentes.Designer.cs">
+      <DependentUpon>FrmAdmUsuario_patentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\FrmAlta_familia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\FrmAlta_familia.Designer.cs">
+      <DependentUpon>FrmAlta_familia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\FrmFamilias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\FrmFamilias.Designer.cs">
+      <DependentUpon>FrmFamilias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\FrmModificar_familia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\FrmModificar_familia.Designer.cs">
+      <DependentUpon>FrmModificar_familia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\FrmNegarHabilitar_UsuarioPatente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\FrmNegarHabilitar_UsuarioPatente.Designer.cs">
+      <DependentUpon>FrmNegarHabilitar_UsuarioPatente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\FrmPatentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\FrmPatentes.Designer.cs">
+      <DependentUpon>FrmPatentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConfirmar_factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConfirmar_factura.Designer.cs">
+      <DependentUpon>FrmConfirmar_factura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProductos_alta_modificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProductos_alta_modificar.Designer.cs">
+      <DependentUpon>FrmProductos_alta_modificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\FrmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\FrmUsuarios.Designer.cs">
+      <DependentUpon>FrmUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\FrmUsuario_alta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\FrmUsuario_alta.Designer.cs">
+      <DependentUpon>FrmUsuario_alta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFacturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFacturas.Designer.cs">
+      <DependentUpon>FrmFacturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNavigation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNavigation.Designer.cs">
+      <DependentUpon>FrmNavigation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPedidos.Designer.cs">
+      <DependentUpon>FrmPedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPedidos_nuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPedidos_nuevo.Designer.cs">
+      <DependentUpon>FrmPedidos_nuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProductos.Designer.cs">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTickets.Designer.cs">
+      <DependentUpon>FrmTickets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIServices.cs" />
+    <Compile Include="PERSONAL\FrmCuentaCorriente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PERSONAL\FrmCuentaCorriente.Designer.cs">
+      <DependentUpon>FrmCuentaCorriente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PERSONAL\FrmDatosPersonales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PERSONAL\FrmDatosPersonales.Designer.cs">
+      <DependentUpon>FrmDatosPersonales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PERSONAL\FrmIdioma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PERSONAL\FrmIdioma.Designer.cs">
+      <DependentUpon>FrmIdioma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SEGURIDAD\FrmBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SEGURIDAD\FrmBackup.Designer.cs">
+      <DependentUpon>FrmBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SEGURIDAD\FrmBitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SEGURIDAD\FrmBitacora.Designer.cs">
+      <DependentUpon>FrmBitacora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SEGURIDAD\FrmCambioContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SEGURIDAD\FrmCambioContraseña.Designer.cs">
+      <DependentUpon>FrmCambioContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SEGURIDAD\FrmIntegridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SEGURIDAD\FrmIntegridad.Designer.cs">
+      <DependentUpon>FrmIntegridad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SEGURIDAD\FrmRestore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SEGURIDAD\FrmRestore.Designer.cs">
+      <DependentUpon>FrmRestore.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ADMIN\FrmAdmFamilia.resx">
+      <DependentUpon>FrmAdmFamilia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\FrmAdmUsuario_familias.resx">
+      <DependentUpon>FrmAdmUsuario_familias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\FrmAdmUsuario_patentes.resx">
+      <DependentUpon>FrmAdmUsuario_patentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\FrmAlta_familia.resx">
+      <DependentUpon>FrmAlta_familia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\FrmFamilias.resx">
+      <DependentUpon>FrmFamilias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\FrmModificar_familia.resx">
+      <DependentUpon>FrmModificar_familia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\FrmNegarHabilitar_UsuarioPatente.resx">
+      <DependentUpon>FrmNegarHabilitar_UsuarioPatente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\FrmPatentes.resx">
+      <DependentUpon>FrmPatentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConfirmar_factura.resx">
+      <DependentUpon>FrmConfirmar_factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProductos_alta_modificar.resx">
+      <DependentUpon>FrmProductos_alta_modificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\FrmUsuarios.resx">
+      <DependentUpon>FrmUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\FrmUsuario_alta.resx">
+      <DependentUpon>FrmUsuario_alta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFacturas.resx">
+      <DependentUpon>FrmFacturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNavigation.resx">
+      <DependentUpon>FrmNavigation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPedidos.resx">
+      <DependentUpon>FrmPedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPedidos_nuevo.resx">
+      <DependentUpon>FrmPedidos_nuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProductos.resx">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTickets.resx">
+      <DependentUpon>FrmTickets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PERSONAL\FrmCuentaCorriente.resx">
+      <DependentUpon>FrmCuentaCorriente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PERSONAL\FrmDatosPersonales.resx">
+      <DependentUpon>FrmDatosPersonales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PERSONAL\FrmIdioma.resx">
+      <DependentUpon>FrmIdioma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SEGURIDAD\FrmBackup.resx">
+      <DependentUpon>FrmBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SEGURIDAD\FrmBitacora.resx">
+      <DependentUpon>FrmBitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SEGURIDAD\FrmCambioContraseña.resx">
+      <DependentUpon>FrmCambioContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SEGURIDAD\FrmIntegridad.resx">
+      <DependentUpon>FrmIntegridad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SEGURIDAD\FrmRestore.resx">
+      <DependentUpon>FrmRestore.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Distar_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Distar_EntidadesNegocio\Distar_EntidadesNegocio.csproj">
+      <Project>{0cc2ac71-b723-4172-9069-75aaecc6c8c9}</Project>
+      <Name>Distar_EntidadesNegocio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Distar_LogicaNegocio\Distar_LogicaNegocio.csproj">
+      <Project>{4465fc87-eaf1-4fa9-8707-ad9d962c417f}</Project>
+      <Name>Distar_LogicaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="REPORT_ICON.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="Microsoft.ReportViewer.Common">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.DataVisualization">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.ProcessingObjectModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.WinForms">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.SqlServer.Types">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

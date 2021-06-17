@@ -1,0 +1,371 @@
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe.config
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.exe
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.pdb
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.pdb
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.dll
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.dll
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.pdb
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.pdb
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.csprojResolveAssemblyReference.cache
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmFamilia.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_familias.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_patentes.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmFamilias.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmPatentes.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos_alta_modificar.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuarios.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuario_alta.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmFacturas.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmLogin.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmNavigation.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos_nuevo.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmTickets.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmCuentaCorriente.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmDatosPersonales.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmIdioma.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.Properties.Resources.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBackup.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBitacora.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmCambioContraseña.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmRestore.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.csproj.GenerateResource.Cache
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.dll
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe.config
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.exe
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.pdb
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.pdb
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmFamilia.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_familias.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_patentes.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmFamilias.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmPatentes.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos_alta_modificar.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuarios.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuario_alta.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmFacturas.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmLogin.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmNavigation.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos_nuevo.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmTickets.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmCuentaCorriente.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmDatosPersonales.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmIdioma.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.Properties.Resources.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBackup.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBitacora.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmCambioContraseña.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmRestore.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.csproj.GenerateResource.Cache
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe.config
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.exe
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.pdb
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.pdb
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.csprojResolveAssemblyReference.cache
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmFamilia.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_familias.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_patentes.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmFamilias.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmPatentes.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos_alta_modificar.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuarios.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuario_alta.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmFacturas.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmLogin.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmNavigation.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos_nuevo.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmTickets.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmCuentaCorriente.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmDatosPersonales.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmIdioma.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.Properties.Resources.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBackup.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBitacora.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmCambioContraseña.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmRestore.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.csproj.GenerateResource.Cache
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAlta_familia.resources
+C:\Users\jmartinez\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmModificar_familia.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAlta_familia.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmModificar_familia.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe.config
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.exe
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.pdb
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.pdb
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.csprojResolveAssemblyReference.cache
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmFamilia.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_familias.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_patentes.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAlta_familia.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmFamilias.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmModificar_familia.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmPatentes.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos_alta_modificar.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuarios.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuario_alta.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmFacturas.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmLogin.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmNavigation.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos_nuevo.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmTickets.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmCuentaCorriente.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmDatosPersonales.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmIdioma.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.Properties.Resources.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBackup.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBitacora.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmCambioContraseña.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmRestore.resources
+C:\Users\JUANBA\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.csproj.GenerateResource.Cache
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmNegarHabilitar_UsuarioPatente.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAlta_familia.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmModificar_familia.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmNegarHabilitar_UsuarioPatente.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmConfirmar_factura.resources
+C:\Users\navegador\Desktop\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmIntegridad.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmConfirmar_factura.resources
+D:\Facultad\TD - Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmIntegridad.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe.config
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.exe
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.pdb
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.pdb
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.csprojResolveAssemblyReference.cache
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmFamilia.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_familias.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_patentes.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAlta_familia.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmFamilias.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmModificar_familia.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmNegarHabilitar_UsuarioPatente.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmPatentes.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmConfirmar_factura.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos_alta_modificar.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuarios.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuario_alta.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmFacturas.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmLogin.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmNavigation.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos_nuevo.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmTickets.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmCuentaCorriente.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmDatosPersonales.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmIdioma.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.Properties.Resources.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBackup.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBitacora.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmCambioContraseña.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmIntegridad.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmRestore.resources
+C:\Users\Navegador\Downloads\Distar\WindowsFormsApplication1\obj\Debug\Distar.csproj.GenerateResource.Cache
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe.config
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.pdb
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.csprojResolveAssemblyReference.cache
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmFamilia.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_familias.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_patentes.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAlta_familia.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmFamilias.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmModificar_familia.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmNegarHabilitar_UsuarioPatente.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmPatentes.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmConfirmar_factura.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos_alta_modificar.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuarios.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuario_alta.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmFacturas.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmLogin.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmNavigation.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos_nuevo.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmTickets.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmCuentaCorriente.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmDatosPersonales.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmIdioma.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.Properties.Resources.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBackup.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBitacora.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmCambioContraseña.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmIntegridad.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmRestore.resources
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.csproj.GenerateResource.Cache
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.exe
+C:\Users\JUANBA\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.pdb
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe.config
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.exe
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.pdb
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.pdb
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.csprojResolveAssemblyReference.cache
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmFamilia.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_familias.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_patentes.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAlta_familia.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmFamilias.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmModificar_familia.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmNegarHabilitar_UsuarioPatente.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmPatentes.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmConfirmar_factura.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos_alta_modificar.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuarios.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuario_alta.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmFacturas.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmLogin.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmNavigation.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos_nuevo.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmTickets.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmCuentaCorriente.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmDatosPersonales.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmIdioma.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.Properties.Resources.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBackup.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBitacora.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmCambioContraseña.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmIntegridad.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmRestore.resources
+C:\Users\jmartinez\Documents\Visual Studio 2013\Projects\Distar\WindowsFormsApplication1\obj\Debug\Distar.csproj.GenerateResource.Cache
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe.config
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.pdb
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.csprojResolveAssemblyReference.cache
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmFamilia.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_familias.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_patentes.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAlta_familia.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmFamilias.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmModificar_familia.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmNegarHabilitar_UsuarioPatente.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmPatentes.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmConfirmar_factura.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos_alta_modificar.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuarios.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuario_alta.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmFacturas.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmLogin.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmNavigation.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos_nuevo.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmTickets.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmCuentaCorriente.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmDatosPersonales.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmIdioma.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.Properties.Resources.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBackup.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBitacora.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmCambioContraseña.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmIntegridad.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmRestore.resources
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar.csproj.GenerateResource.Cache
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.exe
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.pdb
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe.manifest
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.application
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.exe.manifest
+C:\Users\jmartinez\Documents\Facultad\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.application
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe.config
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.exe
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.pdb
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe.manifest
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.application
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.exe
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_GUI.pdb
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.dll
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.dll
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.dll
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_EntidadesNegocio.pdb
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_LogicaNegocio.pdb
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\bin\Debug\Distar_AccesoDatos.pdb
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.csprojResolveAssemblyReference.cache
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmFamilia.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_familias.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAdmUsuario_patentes.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmAlta_familia.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmFamilias.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmModificar_familia.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmNegarHabilitar_UsuarioPatente.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmPatentes.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmConfirmar_factura.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos_alta_modificar.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuarios.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.ADMIN.FrmUsuario_alta.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmFacturas.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmLogin.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmNavigation.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmPedidos_nuevo.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmProductos.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.FrmTickets.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmCuentaCorriente.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmDatosPersonales.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.PERSONAL.FrmIdioma.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.Properties.Resources.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBackup.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmBitacora.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmCambioContraseña.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmIntegridad.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.SEGURIDAD.FrmRestore.resources
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar.csproj.GenerateResource.Cache
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.exe.manifest
+C:\Users\jmartinez\Desktop\Distar\Distar\WindowsFormsApplication1\obj\Debug\Distar_GUI.application
